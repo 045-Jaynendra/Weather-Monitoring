@@ -1,6 +1,7 @@
 # Weather Forecast Application
 
-![as2 1](https://github.com/user-attachments/assets/9fad0a03-edbf-40f2-b71b-e80faf33c3f3)
+![as2 1](https://github.com/user-attachments/assets/5bdfe0d4-c3d0-4ab1-89cb-56aa0212f669)
+
 
 
 
@@ -12,21 +13,25 @@ This project is a dynamic web application that allows users to retrieve real-tim
 
 - **Real-Time Weather Data:** Fetches the latest weather data for any city using the OpenWeatherMap API.
 
-![as2 2](https://github.com/user-attachments/assets/283e88ac-88aa-4897-8f7e-765337454c13)
+![as2 2](https://github.com/user-attachments/assets/3adae9df-d04b-4d8a-bc54-8601b945e2c9)
+
 
 - **5-Day Forecast:** Displays a forecast for the next five days, showing weather trends for better planning.
   
-![as2 3](https://github.com/user-attachments/assets/ab7cac25-26ba-42ae-980c-805133cd26a4)
+![as2 3](https://github.com/user-attachments/assets/1ac603a0-baaa-47ce-beba-dd6ceb696d43)
+
 
 
 - **Temperature Unit Conversion:** Users can switch between Celsius and Fahrenheit based on their preference.
   
-![as2 4](https://github.com/user-attachments/assets/541a71f7-5ce9-4aff-8c2e-3a8dc0e84e9e)
+![as2 4](https://github.com/user-attachments/assets/98659148-c2b6-4317-aabf-658125faacb9)
+
 
 
 - **Detailed Weather Information:** Includes additional weather parameters such as humidity, wind speed, and atmospheric pressure.
   
-![as2 5](https://github.com/user-attachments/assets/00a1dc1c-ef17-4add-9591-d9740d6f0bcc)
+![as2 5](https://github.com/user-attachments/assets/153b88ea-d0ad-4714-8fda-ea903a52cdc4)
+
 
 
 - **User-Friendly Interface:** Easy-to-use search functionality to quickly get weather updates by city name.
